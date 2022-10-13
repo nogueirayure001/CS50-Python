@@ -1,0 +1,5 @@
+flask
+python-dotenv
+selenium
+bs4
+pytest
